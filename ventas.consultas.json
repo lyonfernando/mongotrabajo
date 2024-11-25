@@ -1,0 +1,551 @@
+[{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341dff2"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341dff3"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341dff4"
+  },
+  "//CARGA": "\t//mongoimport",
+  "DE": "--db",
+  "DATOS": "entrega"
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341dff5"
+  },
+  "//CARGA": "\t//pause"
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341dff6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341dff7"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341dff8"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341dff9"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341dffa"
+  },
+  "//CARGA": "db.prueba.find()"
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341dffb"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341dffc"
+  },
+  "//CARGA": "//",
+  "DE": "EJERCICIOS",
+  "DATOS": "DE"
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341dffd"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341dffe"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341dfff"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e001"
+  },
+  "//CARGA": "db.prueba.insertMany(["
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e002"
+  },
+  "//CARGA": "{\"fechaVenta\"",
+  "DE": ":",
+  "DATOS": "{\"año\""
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e003"
+  },
+  "//CARGA": "{\"fechaVenta\"",
+  "DE": ":",
+  "DATOS": "{\"año\""
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e004"
+  },
+  "//CARGA": "{\"fechaVenta\"",
+  "DE": ":",
+  "DATOS": "{\"año\""
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e005"
+  },
+  "//CARGA": "])"
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e006"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e007"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e008"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e009"
+  },
+  "//CARGA": "db.prueba.find().count()"
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e00a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e00b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e00c"
+  },
+  "//CARGA": "//",
+  "DE": "EJERCICIOS",
+  "DATOS": "DE"
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e00d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e00e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e00f"
+  },
+  "//CARGA": "var",
+  "DE": "query1",
+  "DATOS": "="
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e010"
+  },
+  "//CARGA": "db.prueba.find(query1)"
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e011"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e012"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e013"
+  },
+  "//CARGA": "var",
+  "DE": "subquery1",
+  "DATOS": "="
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e014"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e015"
+  },
+  "//CARGA": "var",
+  "DE": "query1",
+  "DATOS": "="
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e016"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e017"
+  },
+  "//CARGA": "var",
+  "DE": "query2",
+  "DATOS": "="
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e018"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e019"
+  },
+  "//CARGA": "var",
+  "DE": "query3",
+  "DATOS": "="
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e01a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e01b"
+  },
+  "//CARGA": "var",
+  "DE": "logico",
+  "DATOS": "="
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e01c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e01d"
+  },
+  "//CARGA": "var",
+  "DE": "orden",
+  "DATOS": "="
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e01e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e01f"
+  },
+  "//CARGA": "db.prueba.find(logico)"
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e020"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e021"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e022"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e023"
+  },
+  "//CARGA": "var",
+  "DE": "query1",
+  "DATOS": "="
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e024"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e025"
+  },
+  "//CARGA": "db.prueba.find(query1)"
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e026"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e027"
+  },
+  "//CARGA": "//",
+  "DE": "EJERCICIOS",
+  "DATOS": "DE"
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e028"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e029"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e02a"
+  },
+  "//CARGA": "var",
+  "DE": "nacional",
+  "DATOS": "="
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e02b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e02c"
+  },
+  "//CARGA": "var",
+  "DE": "relleno",
+  "DATOS": "="
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e02d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e02e"
+  },
+  "//CARGA": "var",
+  "DE": "filtroNacional",
+  "DATOS": "="
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e02f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e030"
+  },
+  "//CARGA": "db.prueba.updateMany(nacional,",
+  "DE": "relleno)"
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e031"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e032"
+  },
+  "//CARGA": "db.prueba.find({origen",
+  "DE": ":",
+  "DATOS": "{$lte"
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e033"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e034"
+  },
+  "//CARGA": "db.prueba.find(filtroNacional).count()",
+  "DE": "//",
+  "DATOS": "De"
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e035"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e036"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e037"
+  },
+  "//CARGA": "var",
+  "DE": "filtroInternacional",
+  "DATOS": "="
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e038"
+  },
+  "//CARGA": "db.prueba.find(filtroInternacional).count()",
+  "DE": "//6.149",
+  "DATOS": "registros"
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e039"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e03a"
+  },
+  "//CARGA": "//",
+  "DE": "EJERCICIOS",
+  "DATOS": "DE"
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e03b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e03c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e03d"
+  },
+  "//CARGA": "var",
+  "DE": "query1",
+  "DATOS": "="
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e03e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e03f"
+  },
+  "//CARGA": "db.prueba.find({},",
+  "DE": "query1)"
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e040"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e041"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e042"
+  },
+  "//CARGA": "//",
+  "DE": "EJERCICIOS",
+  "DATOS": "PIPELINE"
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e043"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e044"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e045"
+  },
+  "//CARGA": "db.prueba.aggregate({$group:",
+  "DE": "{\"_id\":",
+  "DATOS": "$descOrigen\", \"totalKg\": {$sum: \"$kg\"}}})\r\n\r\n    .sort({totalKg: -1})\r\n    \r\n   \r\n\r\n // Ventas anuales por producto, Kg vendidos y ordenadas descendentemente por facturación\r\nvar query1 = {$sum: {$multiply: [\"$kg\", \"$precio.freq"
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e046"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e047"
+  },
+  "//CARGA": "db.prueba.aggregate(["
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e048"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e049"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e04a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e04b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e04c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6743c7ddbd769f4f2341e04d"
+  }
+}]

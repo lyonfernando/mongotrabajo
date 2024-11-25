@@ -1,0 +1,2678 @@
+[{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df69"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 4,
+  "descOrigen": "ALMERIA",
+  "kg": 20900,
+  "precio": {
+    "freq": 4.26,
+    "max": 4.26,
+    "min": 4.26
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df6a"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 2
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 5,
+  "descOrigen": "AVILA",
+  "kg": 15500,
+  "precio": {
+    "freq": 4.26,
+    "max": 4.26,
+    "min": 4.26
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df6b"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 6,
+  "descOrigen": "BADAJOZ",
+  "kg": 179860,
+  "precio": {
+    "freq": 4.26,
+    "max": 4.26,
+    "min": 4.26
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df6c"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 8,
+  "descOrigen": "BARCELONA",
+  "kg": 64310,
+  "precio": {
+    "freq": 4.26,
+    "max": 4.26,
+    "min": 4.26
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df6d"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 10,
+  "descOrigen": "CACERES",
+  "kg": 1047451,
+  "precio": {
+    "freq": 4.25,
+    "max": 4.26,
+    "min": 4.23
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df6e"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 13,
+  "descOrigen": "CIUDAD REAL",
+  "kg": 1000,
+  "precio": {
+    "freq": 4.26,
+    "max": 4.26,
+    "min": 4.26
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df6f"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 15,
+  "descOrigen": "LA CORUÑA",
+  "kg": 51180,
+  "precio": {
+    "freq": 4.26,
+    "max": 4.26,
+    "min": 4.26
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df70"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 16,
+  "descOrigen": "CUENCA",
+  "kg": 430,
+  "precio": {
+    "freq": 4.26,
+    "max": 4.26,
+    "min": 4.26
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df71"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 17,
+  "descOrigen": "GERONA",
+  "kg": 2860,
+  "precio": {
+    "freq": 4.26,
+    "max": 4.26,
+    "min": 4.26
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df72"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 18,
+  "descOrigen": "GRANADA",
+  "kg": 1100,
+  "precio": {
+    "freq": 4.26,
+    "max": 4.26,
+    "min": 4.26
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df73"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 21,
+  "descOrigen": "HUELVA",
+  "kg": 5800,
+  "precio": {
+    "freq": 4.26,
+    "max": 4.26,
+    "min": 4.26
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df74"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 22,
+  "descOrigen": "HUESCA",
+  "kg": 18140,
+  "precio": {
+    "freq": 4.25,
+    "max": 4.26,
+    "min": 4.23
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df75"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 27,
+  "descOrigen": "LUGO",
+  "kg": 50102,
+  "precio": {
+    "freq": 4.25,
+    "max": 4.26,
+    "min": 4.23
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df76"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 28,
+  "descOrigen": "MADRID",
+  "kg": 504970,
+  "precio": {
+    "freq": 4.26,
+    "max": 4.26,
+    "min": 4.23
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df77"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 29,
+  "descOrigen": "MALAGA",
+  "kg": 12500,
+  "precio": {
+    "freq": 4.26,
+    "max": 4.26,
+    "min": 4.26
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df78"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 30,
+  "descOrigen": "MURCIA",
+  "kg": 8900,
+  "precio": {
+    "freq": 4.26,
+    "max": 4.26,
+    "min": 4.26
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df79"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 32,
+  "descOrigen": "ORENSE",
+  "kg": 4000,
+  "precio": {
+    "freq": 4.26,
+    "max": 4.26,
+    "min": 4.26
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df7a"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 33,
+  "descOrigen": "ASTURIAS",
+  "kg": 15920,
+  "precio": {
+    "freq": 4.26,
+    "max": 4.26,
+    "min": 4.26
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df7b"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 36,
+  "descOrigen": "PONTEVEDRA",
+  "kg": 217305,
+  "precio": {
+    "freq": 4.26,
+    "max": 4.26,
+    "min": 4.23
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df7c"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 37,
+  "descOrigen": "SALAMANCA",
+  "kg": 11640,
+  "precio": {
+    "freq": 4.26,
+    "max": 4.26,
+    "min": 4.26
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df7d"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 43,
+  "descOrigen": "TARRAGONA",
+  "kg": 27640,
+  "precio": {
+    "freq": 4.23,
+    "max": 4.23,
+    "min": 4.23
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df7e"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 45,
+  "descOrigen": "TOLEDO",
+  "kg": 784200,
+  "precio": {
+    "freq": 4.25,
+    "max": 4.26,
+    "min": 4.23
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df7f"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 46,
+  "descOrigen": "VALENCIA",
+  "kg": 81940,
+  "precio": {
+    "freq": 4.25,
+    "max": 4.26,
+    "min": 4.23
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df81"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 49,
+  "descOrigen": "ZAMORA",
+  "kg": 89200,
+  "precio": {
+    "freq": 4.25,
+    "max": 4.26,
+    "min": 4.23
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df82"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 50,
+  "descOrigen": "ZARAGOZA",
+  "kg": 70770,
+  "precio": {
+    "freq": 4.25,
+    "max": 4.26,
+    "min": 4.23
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df83"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 54,
+  "descOrigen": "POLONIA",
+  "kg": 162615,
+  "precio": {
+    "freq": 4.26,
+    "max": 4.26,
+    "min": 4.23
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df84"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 60,
+  "descOrigen": "FRANCIA",
+  "kg": 88700,
+  "precio": {
+    "freq": 4.26,
+    "max": 4.26,
+    "min": 4.23
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df85"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 61,
+  "descOrigen": "ALEMANIA",
+  "kg": 32950,
+  "precio": {
+    "freq": 4.26,
+    "max": 4.26,
+    "min": 4.26
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df86"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 62,
+  "descOrigen": "ITALIA",
+  "kg": 31620,
+  "precio": {
+    "freq": 4.26,
+    "max": 4.26,
+    "min": 4.26
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df87"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 63,
+  "descOrigen": "GRAN BRETAÑA",
+  "kg": 9300,
+  "precio": {
+    "freq": 4.26,
+    "max": 4.26,
+    "min": 4.26
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df88"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 64,
+  "descOrigen": "BELGICA",
+  "kg": 46020,
+  "precio": {
+    "freq": 4.26,
+    "max": 4.26,
+    "min": 4.26
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df89"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 65,
+  "descOrigen": "HOLANDA",
+  "kg": 186220,
+  "precio": {
+    "freq": 4.26,
+    "max": 4.26,
+    "min": 4.23
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df8a"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 67,
+  "descOrigen": "IRLANDA",
+  "kg": 43400,
+  "precio": {
+    "freq": 4.26,
+    "max": 4.26,
+    "min": 4.26
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df8b"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 70,
+  "descOrigen": "DINAMARCA",
+  "kg": 6140,
+  "precio": {
+    "freq": 4.23,
+    "max": 4.23,
+    "min": 4.23
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df8c"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "101"
+  },
+  "descVar": "VACUNO CANAL",
+  "origen": 81,
+  "descOrigen": "AUSTRIA",
+  "kg": 5840,
+  "precio": {
+    "freq": 4.25,
+    "max": 4.26,
+    "min": 4.23
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df8d"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 6,
+  "descOrigen": "BADAJOZ",
+  "kg": 16810,
+  "precio": {
+    "freq": 8.81,
+    "max": 8.97,
+    "min": 8.74
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df8e"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 8,
+  "descOrigen": "BARCELONA",
+  "kg": 51825,
+  "precio": {
+    "freq": 8.92,
+    "max": 9.21,
+    "min": 8.74
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df8f"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 10,
+  "descOrigen": "CACERES",
+  "kg": 54110,
+  "precio": {
+    "freq": 8.96,
+    "max": 9.21,
+    "min": 8.74
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df90"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 13,
+  "descOrigen": "CIUDAD REAL",
+  "kg": 8000,
+  "precio": {
+    "freq": 8.78,
+    "max": 8.78,
+    "min": 8.78
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df91"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 14,
+  "descOrigen": "CORDOBA",
+  "kg": 3210,
+  "precio": {
+    "freq": 8.74,
+    "max": 8.74,
+    "min": 8.74
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df92"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 15,
+  "descOrigen": "LA CORUÑA",
+  "kg": 12750,
+  "precio": {
+    "freq": 8.97,
+    "max": 8.97,
+    "min": 8.97
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df93"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 16,
+  "descOrigen": "CUENCA",
+  "kg": 800,
+  "precio": {
+    "freq": 8.86,
+    "max": 8.97,
+    "min": 8.74
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df94"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 17,
+  "descOrigen": "GERONA",
+  "kg": 8060,
+  "precio": {
+    "freq": 9.09,
+    "max": 9.21,
+    "min": 8.97
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df95"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 27,
+  "descOrigen": "LUGO",
+  "kg": 13810,
+  "precio": {
+    "freq": 8.99,
+    "max": 9.21,
+    "min": 8.78
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df96"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 28,
+  "descOrigen": "MADRID",
+  "kg": 27800,
+  "precio": {
+    "freq": 8.95,
+    "max": 9.21,
+    "min": 8.74
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df97"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 30,
+  "descOrigen": "MURCIA",
+  "kg": 2158,
+  "precio": {
+    "freq": 8.97,
+    "max": 8.97,
+    "min": 8.97
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df98"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 32,
+  "descOrigen": "ORENSE",
+  "kg": 11780,
+  "precio": {
+    "freq": 8.78,
+    "max": 8.78,
+    "min": 8.78
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df99"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 33,
+  "descOrigen": "ASTURIAS",
+  "kg": 18880,
+  "precio": {
+    "freq": 8.89,
+    "max": 9.21,
+    "min": 8.74
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df9a"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 36,
+  "descOrigen": "PONTEVEDRA",
+  "kg": 32728,
+  "precio": {
+    "freq": 8.9,
+    "max": 9.21,
+    "min": 8.74
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df9b"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 37,
+  "descOrigen": "SALAMANCA",
+  "kg": 17060,
+  "precio": {
+    "freq": 8.78,
+    "max": 8.78,
+    "min": 8.78
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df9c"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 45,
+  "descOrigen": "TOLEDO",
+  "kg": 36540,
+  "precio": {
+    "freq": 8.85,
+    "max": 9.21,
+    "min": 8.74
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df9d"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 46,
+  "descOrigen": "VALENCIA",
+  "kg": 100190,
+  "precio": {
+    "freq": 8.98,
+    "max": 9.21,
+    "min": 8.74
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df9e"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 47,
+  "descOrigen": "VALLADOLID",
+  "kg": 900,
+  "precio": {
+    "freq": 8.74,
+    "max": 8.74,
+    "min": 8.74
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341df9f"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 49,
+  "descOrigen": "ZAMORA",
+  "kg": 1250,
+  "precio": {
+    "freq": 8.97,
+    "max": 8.97,
+    "min": 8.97
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfa0"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 50,
+  "descOrigen": "ZARAGOZA",
+  "kg": 27950,
+  "precio": {
+    "freq": 8.91,
+    "max": 8.97,
+    "min": 8.78
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfa1"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 54,
+  "descOrigen": "POLONIA",
+  "kg": 67170,
+  "precio": {
+    "freq": 8.88,
+    "max": 9.21,
+    "min": 8.74
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfa2"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 60,
+  "descOrigen": "FRANCIA",
+  "kg": 89228,
+  "precio": {
+    "freq": 8.92,
+    "max": 9.21,
+    "min": 8.74
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfa3"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 61,
+  "descOrigen": "ALEMANIA",
+  "kg": 43720,
+  "precio": {
+    "freq": 8.94,
+    "max": 9.21,
+    "min": 8.74
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfa4"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 62,
+  "descOrigen": "ITALIA",
+  "kg": 12000,
+  "precio": {
+    "freq": 8.76,
+    "max": 8.78,
+    "min": 8.74
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfa5"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 63,
+  "descOrigen": "GRAN BRETAÑA",
+  "kg": 7670,
+  "precio": {
+    "freq": 8.97,
+    "max": 8.97,
+    "min": 8.97
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfa6"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 64,
+  "descOrigen": "BELGICA",
+  "kg": 7665,
+  "precio": {
+    "freq": 8.83,
+    "max": 8.97,
+    "min": 8.74
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfa7"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 65,
+  "descOrigen": "HOLANDA",
+  "kg": 36608,
+  "precio": {
+    "freq": 8.95,
+    "max": 9.21,
+    "min": 8.74
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfa8"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 67,
+  "descOrigen": "IRLANDA",
+  "kg": 9350,
+  "precio": {
+    "freq": 8.97,
+    "max": 8.97,
+    "min": 8.97
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfa9"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 69,
+  "descOrigen": "PORTUGAL",
+  "kg": 4540,
+  "precio": {
+    "freq": 8.74,
+    "max": 8.74,
+    "min": 8.74
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfaa"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 70,
+  "descOrigen": "DINAMARCA",
+  "kg": 8808,
+  "precio": {
+    "freq": 8.99,
+    "max": 9.21,
+    "min": 8.78
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfab"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 78,
+  "descOrigen": "URUGUAY",
+  "kg": 3780,
+  "precio": {
+    "freq": 8.97,
+    "max": 8.97,
+    "min": 8.97
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfac"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "207"
+  },
+  "descVar": "VACUNO DESPIECE AÑOJO",
+  "origen": 81,
+  "descOrigen": "AUSTRIA",
+  "kg": 385,
+  "precio": {
+    "freq": 8.74,
+    "max": 8.74,
+    "min": 8.74
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfad"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 6,
+  "descOrigen": "BADAJOZ",
+  "kg": 16810,
+  "precio": {
+    "freq": 7.95,
+    "max": 8.18,
+    "min": 7.75
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfae"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 8,
+  "descOrigen": "BARCELONA",
+  "kg": 51825,
+  "precio": {
+    "freq": 8.06,
+    "max": 8.41,
+    "min": 7.75
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfaf"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 10,
+  "descOrigen": "CACERES",
+  "kg": 54110,
+  "precio": {
+    "freq": 8.13,
+    "max": 8.41,
+    "min": 7.75
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfb0"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 13,
+  "descOrigen": "CIUDAD REAL",
+  "kg": 8000,
+  "precio": {
+    "freq": 7.94,
+    "max": 7.94,
+    "min": 7.94
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfb1"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 14,
+  "descOrigen": "CORDOBA",
+  "kg": 3210,
+  "precio": {
+    "freq": 7.75,
+    "max": 7.75,
+    "min": 7.75
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfb2"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 15,
+  "descOrigen": "LA CORUÑA",
+  "kg": 12750,
+  "precio": {
+    "freq": 8.18,
+    "max": 8.18,
+    "min": 8.18
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfb3"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 16,
+  "descOrigen": "CUENCA",
+  "kg": 800,
+  "precio": {
+    "freq": 7.97,
+    "max": 8.18,
+    "min": 7.75
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfb4"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 17,
+  "descOrigen": "GERONA",
+  "kg": 8060,
+  "precio": {
+    "freq": 8.3,
+    "max": 8.41,
+    "min": 8.18
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfb5"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 27,
+  "descOrigen": "LUGO",
+  "kg": 13810,
+  "precio": {
+    "freq": 8.18,
+    "max": 8.41,
+    "min": 7.94
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfb6"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 28,
+  "descOrigen": "MADRID",
+  "kg": 27800,
+  "precio": {
+    "freq": 8.11,
+    "max": 8.41,
+    "min": 7.75
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfb7"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 30,
+  "descOrigen": "MURCIA",
+  "kg": 2158,
+  "precio": {
+    "freq": 8.18,
+    "max": 8.18,
+    "min": 8.18
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfb8"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 32,
+  "descOrigen": "ORENSE",
+  "kg": 11780,
+  "precio": {
+    "freq": 7.94,
+    "max": 7.94,
+    "min": 7.94
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfb9"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 33,
+  "descOrigen": "ASTURIAS",
+  "kg": 18880,
+  "precio": {
+    "freq": 8.01,
+    "max": 8.41,
+    "min": 7.75
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfba"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 36,
+  "descOrigen": "PONTEVEDRA",
+  "kg": 32728,
+  "precio": {
+    "freq": 8.04,
+    "max": 8.41,
+    "min": 7.75
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfbb"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 37,
+  "descOrigen": "SALAMANCA",
+  "kg": 17060,
+  "precio": {
+    "freq": 7.94,
+    "max": 7.94,
+    "min": 7.94
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfbc"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 45,
+  "descOrigen": "TOLEDO",
+  "kg": 36540,
+  "precio": {
+    "freq": 7.96,
+    "max": 8.41,
+    "min": 7.75
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfbd"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 46,
+  "descOrigen": "VALENCIA",
+  "kg": 100190,
+  "precio": {
+    "freq": 8.16,
+    "max": 8.41,
+    "min": 7.75
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfbe"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 47,
+  "descOrigen": "VALLADOLID",
+  "kg": 900,
+  "precio": {
+    "freq": 7.75,
+    "max": 7.75,
+    "min": 7.75
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfbf"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 49,
+  "descOrigen": "ZAMORA",
+  "kg": 1250,
+  "precio": {
+    "freq": 8.18,
+    "max": 8.18,
+    "min": 8.18
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfc0"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 50,
+  "descOrigen": "ZARAGOZA",
+  "kg": 27950,
+  "precio": {
+    "freq": 8.1,
+    "max": 8.18,
+    "min": 7.94
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfc1"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 54,
+  "descOrigen": "POLONIA",
+  "kg": 67170,
+  "precio": {
+    "freq": 8.01,
+    "max": 8.41,
+    "min": 7.75
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfc2"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 60,
+  "descOrigen": "FRANCIA",
+  "kg": 89228,
+  "precio": {
+    "freq": 8.09,
+    "max": 8.41,
+    "min": 7.75
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfc3"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 61,
+  "descOrigen": "ALEMANIA",
+  "kg": 43720,
+  "precio": {
+    "freq": 8.11,
+    "max": 8.41,
+    "min": 7.75
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfc4"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 62,
+  "descOrigen": "ITALIA",
+  "kg": 12000,
+  "precio": {
+    "freq": 7.85,
+    "max": 7.94,
+    "min": 7.75
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfc5"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 63,
+  "descOrigen": "GRAN BRETAÑA",
+  "kg": 7670,
+  "precio": {
+    "freq": 8.18,
+    "max": 8.18,
+    "min": 8.18
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfc6"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 64,
+  "descOrigen": "BELGICA",
+  "kg": 7665,
+  "precio": {
+    "freq": 7.96,
+    "max": 8.18,
+    "min": 7.75
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfc7"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 65,
+  "descOrigen": "HOLANDA",
+  "kg": 36608,
+  "precio": {
+    "freq": 8.12,
+    "max": 8.41,
+    "min": 7.75
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfc8"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 67,
+  "descOrigen": "IRLANDA",
+  "kg": 9350,
+  "precio": {
+    "freq": 8.18,
+    "max": 8.18,
+    "min": 8.18
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfc9"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 69,
+  "descOrigen": "PORTUGAL",
+  "kg": 4540,
+  "precio": {
+    "freq": 7.75,
+    "max": 7.75,
+    "min": 7.75
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfca"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 70,
+  "descOrigen": "DINAMARCA",
+  "kg": 8808,
+  "precio": {
+    "freq": 8.18,
+    "max": 8.41,
+    "min": 7.94
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfcb"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 78,
+  "descOrigen": "URUGUAY",
+  "kg": 3780,
+  "precio": {
+    "freq": 8.18,
+    "max": 8.18,
+    "min": 8.18
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfcc"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "208"
+  },
+  "descVar": "VACUNO DESPIECE VACA",
+  "origen": 81,
+  "descOrigen": "AUSTRIA",
+  "kg": 385,
+  "precio": {
+    "freq": 7.75,
+    "max": 7.75,
+    "min": 7.75
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfcd"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "301"
+  },
+  "descVar": "VACUNO CASQUERIA",
+  "origen": 4,
+  "descOrigen": "ALMERIA",
+  "kg": 15000,
+  "precio": {
+    "freq": 2.39,
+    "max": 2.39,
+    "min": 2.39
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfce"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "301"
+  },
+  "descVar": "VACUNO CASQUERIA",
+  "origen": 8,
+  "descOrigen": "BARCELONA",
+  "kg": 36880,
+  "precio": {
+    "freq": 2.39,
+    "max": 2.39,
+    "min": 2.39
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfcf"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "301"
+  },
+  "descVar": "VACUNO CASQUERIA",
+  "origen": 10,
+  "descOrigen": "CACERES",
+  "kg": 103236,
+  "precio": {
+    "freq": 2.39,
+    "max": 2.39,
+    "min": 2.39
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6743b244bd769f4f2341dfd0"
+  },
+  "fechaVenta": {
+    "año": 2020,
+    "mes": 1
+  },
+  "codVariedad": {
+    "codFam": "CA",
+    "codProd": "301"
+  },
+  "descVar": "VACUNO CASQUERIA",
+  "origen": 13,
+  "descOrigen": "CIUDAD REAL",
+  "kg": 47700,
+  "precio": {
+    "freq": 2.39,
+    "max": 2.39,
+    "min": 2.39
+  },
+  "tags": [
+    "CARNE",
+    "VACUNO"
+  ]
+}]
